@@ -46,11 +46,6 @@ Below is an example of a simple HTML document:
 
 ---
 
-## 📚 Helpful Learning Resources
-🔗 [W3Schools - HTML Guide](https://www.w3schools.com/html/)
-🔗 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-🔗 [HTML.com Reference](https://html.com/)
-
 ---
 
 ## 💡 About the Creator
