@@ -1,24 +1,4 @@
 
-
-- **`<!DOCTYPE html>`**: This declaration defines the document as an HTML5 document.
-- **`<html>`**: The root element that wraps all the content on the page.
-- **`<head>`**: Contains meta-information like the title, character set, and links to external resources such as CSS files.
-- **`<title>`**: Sets the title of the web page, which appears on the browser tab.
-- **`<body>`**: Contains all the visible content of the web page.
-- **`<h1>`**: Represents a top-level heading.
-- **`<p>`**: Defines a paragraph of text.
-
-### 🧩 Key Points
-
-- **Elements**: Building blocks of HTML, defined by tags like `<html>`, `<head>`, `<body>`, etc.
-- **Attributes**: Provide additional information about elements, usually included in the opening tag. For example, `<p class="intro">` assigns the "intro" class to the paragraph.
-
-## 🌍 اردو
-
-### 📖 جائزہ
-
-اس باب میں، ہم ایک HTML دستاویز کے بنیادی ڈھانچے کا مطالعہ کریں گے۔ اس بنیادی ڈھانچے کو سمجھنا اچھی طرح سے منظم اور فعال ویب صفحات بنانے کے لیے ضروری ہے۔
-
 ### 🏗️ HTML دستاویز کا بنیادی ڈھانچہ
 
 ایک HTML دستاویز عام طور پر درج ذیل حصوں پر مشتمل ہوتی ہے:
