@@ -1,17 +1,4 @@
-# 📄 Chapter 1: Understanding the Basic Structure of HTML
 
-## 🌐 English
-
-### 📖 Overview
-
-In this chapter, we'll delve into the fundamental structure of an HTML document. Understanding this basic skeleton is essential for creating well-structured and functional web pages.
-
-### 🏗️ Basic Structure of an HTML Document
-
-An HTML document typically consists of the following parts:
-
-1. **`<!DOCTYPE html>`**: Declares the document type and version of HTML.
-2. **`<html>`**: The root element that encompasses all other elements.
 3. **`<head>`**: Contains meta-information about the document, such as the title and links to stylesheets.
 4. **`<body>`**: Contains the content that is displayed to the user, including text, images, and other media.
 
