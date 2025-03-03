@@ -1,25 +1,4 @@
 
-3. **`<head>`**: Contains meta-information about the document, such as the title and links to stylesheets.
-4. **`<body>`**: Contains the content that is displayed to the user, including text, images, and other media.
-
-### 📝 Example
-
-Below is a simple example of an HTML document:
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My First Web Page</title>
-</head>
-<body>
-    <h1>Welcome to My Website</h1>
-    <p>This is a paragraph of text on my web page.</p>
-</body>
-</html>
-```
-
-### 🔍 Explanation
 
 - **`<!DOCTYPE html>`**: This declaration defines the document as an HTML5 document.
 - **`<html>`**: The root element that wraps all the content on the page.
