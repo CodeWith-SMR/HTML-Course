@@ -1,4 +1,4 @@
-# 🌍 HTML Course by Muhammad Raza | SMRIT 🚀
+# 🌍 HTML Course by Muhammad Raza | SMR 🚀
 
 Welcome to the **HTML Course**, an essential guide to learning **HTML (HyperText Markup Language)**, the fundamental building block of web development. Whether you're a beginner or looking to refresh your knowledge, this course will help you understand how HTML structures web pages. 📖💡
 
