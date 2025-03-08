@@ -49,7 +49,7 @@ Below is an example of a simple HTML document:
 ---
 
 ## 💡 About the Creator
-This course is brought to you by **Muhammad Raza**, under the banner of **SMRIT**, with the goal of making web development accessible for everyone. 🚀💡
+This course is brought to you by **Muhammad Raza**, under the banner of **SMR**, with the goal of making web development accessible for everyone. 🚀💡
 
 ---
 
