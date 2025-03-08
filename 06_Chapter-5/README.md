@@ -1,4 +1,4 @@
-# 🖼️ Chapter 4: Images in HTML
+# 🖼️ Chapter 5: Images in HTML
 
 ## 🌐 English
 
